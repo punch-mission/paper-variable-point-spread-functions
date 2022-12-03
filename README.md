@@ -1,4 +1,6 @@
 # "Coma Off It: Removing Variable Point Spread Functions from Astronomical Images" by Hughes et al.
+[![DOI](https://zenodo.org/badge/573548130.svg)](https://zenodo.org/badge/latestdoi/573548130)
+
 Code to accompany "Coma Off It: Removing Variable Point Spread Functions from Astronomical Images" by Hughes et al.
 
 ## Notebooks
@@ -15,6 +17,7 @@ This is fake data. Simply run all cells in `notebooks/model-data.ipynb`.
 The resulting figure is `figures/mode.png`
 
 #### 2. PUNCH data
+TODO: The data used for this still needs to be uploaded. 
 
 #### 3. DASH data
 First run `scripts/correct_dash.py`. Then to generate figures run `notebooks/dash.ipynb`. 
