@@ -1,7 +1,7 @@
 # "Coma Off It: Removing Variable Point Spread Functions from Astronomical Images" by Hughes et al.
 [![DOI](https://zenodo.org/badge/573548130.svg)](https://zenodo.org/badge/latestdoi/573548130)
 
-Code to accompany "Coma Off It: Removing Variable Point Spread Functions from Astronomical Images" by Hughes et al.
+Code to accompany "Coma Off It: Removing Variable Point Spread Functions from Astronomical Images" by [Hughes et al.(2022)](https://arxiv.org/abs/2212.02594). This repository generates the figures. If you want the source code, that is available at [regularizepsf](https://github.com/punch-mission/regularizepsf). 
 
 ## Notebooks
 The notebooks provided in the `notebooks` directory recreate all of the figures in the paper. 
